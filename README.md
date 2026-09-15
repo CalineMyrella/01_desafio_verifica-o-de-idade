@@ -15,10 +15,7 @@ Este projeto contém a solução do **Desafio 1** (`5a_desafio1.php`), onde um f
 
 # 🛠️ Tecnologias Utilizadas
 
-- **PHP 8.x** (Processamento Back-end e I/O de arquivos)
 - **HTML5** (Estrutura do formulário)
-- **JavaScript** (Notificações via `alert`)
-
 
 
 # 📂 Estrutura do Repositório
